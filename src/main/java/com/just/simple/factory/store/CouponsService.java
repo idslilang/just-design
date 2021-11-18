@@ -1,4 +1,4 @@
-package com.just.factory.store;
+package com.just.simple.factory.store;
 
 import java.util.Map;
 

@@ -1,6 +1,6 @@
-package com.just.factory.store.impl;
+package com.just.simple.factory.store.impl;
 
-import com.just.factory.store.CouponsService;
+import com.just.simple.factory.store.CouponsService;
 
 import java.util.HashMap;
 import java.util.Map;

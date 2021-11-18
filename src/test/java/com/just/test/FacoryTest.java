@@ -1,8 +1,8 @@
 package com.just.test;
 
-import com.just.factory.StoreFactory;
-import com.just.factory.store.CouponsService;
-import com.just.factory.store.impl.TAOBAO;
+import com.just.simple.factory.StoreFactory;
+import com.just.simple.factory.store.CouponsService;
+import com.just.simple.factory.store.impl.TAOBAO;
 import org.junit.Test;
 
 /**

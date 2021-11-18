@@ -1,9 +1,9 @@
-package com.just.factory;
+package com.just.simple.factory;
 
-import com.just.factory.store.CouponsService;
-import com.just.factory.store.impl.JD;
-import com.just.factory.store.impl.PDD;
-import com.just.factory.store.impl.TAOBAO;
+import com.just.simple.factory.store.CouponsService;
+import com.just.simple.factory.store.impl.JD;
+import com.just.simple.factory.store.impl.PDD;
+import com.just.simple.factory.store.impl.TAOBAO;
 
 /**
  * @description:
@@ -11,7 +11,9 @@ import com.just.factory.store.impl.TAOBAO;
  * @version:
  * @modified By:1170370113@qq.com
  */
-public class StoreFactory {
+public class FactoryMethod {
+
+
 
 
     public CouponsService getCouponsService(String name) {
