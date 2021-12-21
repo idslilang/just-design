@@ -31,7 +31,7 @@
        <dependency>
            <groupId>org.projectlombok</groupId>
            <artifactId>lombok</artifactId>
-           <version>1.16.10</version>
+           <version>1.18.22</version>
        </dependency>
        <dependency>
            <groupId>org.springframework.boot</groupId>
@@ -40,19 +40,12 @@
    </dependencies>
 
     <build>
-
         <plugins>
-
             <plugin>
-
                 <groupId>org.springframework.boot</groupId>
-
                 <artifactId>spring-boot-maven-plugin</artifactId>
-
             </plugin>
-
         </plugins>
-
     </build>
 
 </project>
